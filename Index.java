@@ -4,7 +4,7 @@ import lib.Portfolio;
 import lib.Stock;
 import lib.Portfolioitem;
 
-public class Main {
+public class Index {
     public static void main(String[] args) {
         Portfolio portfolio = new Portfolio();
         Marketdata marketData = new Marketdata();
